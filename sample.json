@@ -1,0 +1,139 @@
+{
+  "plant": "SiloPlant_8Silos",
+  "objects": [
+    
+    {
+      "id": "S1",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 0, "y": 0, "z": 0 }
+    },
+    {
+      "id": "S2",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 24, "y": 0, "z": 0 }
+    },
+    {
+      "id": "S3",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 48, "y": 0, "z": 0 }
+    },
+    {
+      "id": "S4",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 72, "y": 0, "z": 0 }
+    },
+    {
+      "id": "S5",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 0, "y": 28, "z": 0 }
+    },
+    {
+      "id": "S6",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 24, "y": 28, "z": 0 }
+    },
+    {
+      "id": "S7",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 48, "y": 28, "z": 0 }
+    },
+    {
+      "id": "S8",
+      "type": "cylinder",
+      "radius": 9,
+      "height": 22,
+      "segments": 48,
+      "position": { "x": 72, "y": 28, "z": 0 }
+    },
+
+    {
+      "id": "AS1",
+      "type": "cylinder",
+      "radius": 3,
+      "height": 14,
+      "segments": 36,
+      "position": { "x": -20, "y": 10, "z": 0 }
+    },
+    {
+      "id": "AS2",
+      "type": "cylinder",
+      "radius": 3,
+      "height": 14,
+      "segments": 36,
+      "position": { "x": -20, "y": 20, "z": 0 }
+    },
+    {
+      "id": "AS3",
+      "type": "cylinder",
+      "radius": 3,
+      "height": 14,
+      "segments": 36,
+      "position": { "x": -20, "y": 30, "z": 0 }
+    },
+
+    {
+      "id": "Conveyor1",
+      "type": "box",
+      "width": 90,
+      "depth": 2,
+      "height": 2,
+      "position": { "x": 36, "y": 0, "z": 24 }
+    },
+    {
+      "id": "Conveyor2",
+      "type": "box",
+      "width": 90,
+      "depth": 2,
+      "height": 2,
+      "position": { "x": 36, "y": 28, "z": 24 }
+    },
+
+    {
+      "id": "AdminBuilding",
+      "type": "box",
+      "width": 20,
+      "depth": 12,
+      "height": 12,
+      "position": { "x": 110, "y": 10, "z": 0 }
+    },
+
+    {
+      "id": "UtilityBuilding",
+      "type": "box",
+      "width": 18,
+      "depth": 8,
+      "height": 6,
+      "position": { "x": 110, "y": 30, "z": 0 }
+    },
+
+    {
+      "id": "Ground",
+      "type": "box",
+      "width": 160,
+      "depth": 100,
+      "height": 1,
+      "position": { "x": 40, "y": 15, "z": -1 }
+    }
+  ]
+}
